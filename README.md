@@ -6,7 +6,7 @@ Automatic segmentation of a building facade using 3D Lidar points in Matlab
 - Matlab : **2018a** or above
 - Development Environment : Matlab App Designer
 ## Author
-Feel free to ask me questions on Google Hangouts or by email : bakkach.abdessamad@gmail.com
+Feel free to ask me questions on Google Hangouts or by Email : bakkach.abdessamad@gmail.com
 ## Donation
 If this project helped you reduce time to develop, you can give me a cup of coffee :coffee: :heart:
 
