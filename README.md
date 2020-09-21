@@ -1,5 +1,5 @@
 ## Facade 3D Lidar Modeling
-Automatic segmentation of a building facade using 3D Lidar points in Matlab
+3D Building Facade Automatic Segmentation From 3D Lidar Points in Matlab
 <p align="center">
     <img src="demo/demo.png" width="75%">
 </p>
