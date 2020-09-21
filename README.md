@@ -11,7 +11,11 @@ Automatic segmentation of a building facade using 3D Lidar points in Matlab
 - Matlab : **2018a** or above
 - Development Environment : Matlab App Designer
 ## Installation
-test
+
+1. Install Matlab **2018a** or above
+2. Open Matlab App Designer with `appdesigner` Command
+3. Hit Open & Add The modelisation_lidar.mlapp file
+4. Hit Run
 
 ## License
 
