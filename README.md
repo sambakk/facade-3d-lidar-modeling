@@ -1,12 +1,33 @@
 ## Facade 3D Lidar Modeling
 Automatic segmentation of a building facade using 3D Lidar points in Matlab
-![](demo/demo.png)
+<p align="center">
+    <img src="demo/demo.png" width="75%">
+</p>
 
 ## Features
 - RANSAC Segmentation
+<p align="center">
+    <img src="demo/1.1.png" width="75%">
+</p>
+
+<p align="center">
+    <img src="demo/1.2.png" width="75%">
+</p>
+
 - Contour Detection
+<p align="center">
+    <img src="demo/2.png" width="75%">
+</p>
+
 - Lines Detection
+<p align="center">
+    <img src="demo/3.png" width="75%">
+</p>
+
 - Points of Intersection
+<p align="center">
+    <img src="demo/4.png" width="75%">
+</p>
 
 ## Prerequisites
 - Matlab : **2018a** or above
